@@ -11,3 +11,27 @@
  Tags:         dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-sixteen-child
 */
+
+body {
+  background-color: yellow;
+}
+
+.site-header {
+  padding: 2em 3.75em;
+}
+
+.site-title {
+  font-weight: 400;
+}
+
+.site-description {
+  color: #1a1a1a;
+}
+
+.entry-title {
+  font-weight: 400;
+}
+
+.post-thumbnail {
+  border: 1px solid #686868;
+}
