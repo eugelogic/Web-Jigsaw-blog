@@ -35,3 +35,7 @@ body {
 .post-thumbnail {
   border: 1px solid #686868;
 }
+
+.widget {
+  margin-bottom: 2em;
+}
